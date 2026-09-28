@@ -49,7 +49,7 @@ li {
 .grid {
     display: grid;
     grid-template-columns: 1fr 3fr;
-    grid-template-rows: auto minmax(800px, auto) 400px;
+    grid-template-rows: auto minmax(500px, auto) 200px;
     grid-template-areas:
         "header header"
         "left main"
