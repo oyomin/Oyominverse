@@ -1,3 +1,3 @@
 # Oyominverse >:3
 
-https://oyomin.github.io/how/
+https://oyomin.github.io/Oyominverse/
