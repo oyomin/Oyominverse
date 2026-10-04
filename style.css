@@ -6,7 +6,7 @@ html, body {
 }
 
 .title {
-    color: #ffffff;
+    color: #ffb30e;
     font-size: 50px;
     text-align:center;
     background-color:#191a1b;
@@ -37,14 +37,13 @@ ul {
 li {
     list-style-type: none;
     display: inline-block;
-    color: #ffffff;
 }
 
 .btn {
     margin: 0;
     padding: 0;
     text-decoration: none;
-    color: #ffffff;
+    color: #ac6450;
     font-size: 20px;
 }
 
