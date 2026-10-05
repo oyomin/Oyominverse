@@ -37,7 +37,6 @@ ul {
 li {
     list-style-type: none;
     display: inline-block;
-    color: #ffffff;
 }
 
 .btn {
@@ -48,27 +47,12 @@ li {
     font-size: 20px;
 }
 
-.hello{
-    font-family: 'Segoe Script';
-    font-size: 50px;
-    text-align: left;
-    margin: 25px;
-}
-
-.container-hello {
-    /* display: flex; */
-    /* flex-wrap: wrap; */
-    align-items: center;
-    margin: 25px;
+.song-list {
     color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    background-color:#191a1b;
 }
-
-.content {
-    margin: 25px;
-    font-size: 30px;
-    color: #ffffff;
-}
-
 
 
 /* Social Media ล่างสุดไว้ใส่URLช่องทางนู้นนี่นะ */
